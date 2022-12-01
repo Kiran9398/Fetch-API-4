@@ -1,0 +1,22 @@
+input{
+    border-radius: 5px;
+    border-color: blueviolet !important;
+    border-width: 3px !important;
+    color: brown !important;
+    font-weight: 500 !important;
+    
+}
+.mobile-name{
+    color: blue;
+    font-weight: 500;
+    font-size: 23px;
+}
+.model-name{
+    font-weight: 500;
+}
+.price{
+    color: blueviolet;
+}
+.mobile-color{
+    color: brown;
+}
